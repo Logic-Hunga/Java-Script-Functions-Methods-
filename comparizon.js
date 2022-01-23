@@ -5,3 +5,5 @@ function comparisonFunction(phoneNumber) {
     }
     return "Its false phone number aint exist";
 }
+console.log(comparisonFunction(true)); // true if statement
+console.log(comparisonFunction(true)); // true false statement
